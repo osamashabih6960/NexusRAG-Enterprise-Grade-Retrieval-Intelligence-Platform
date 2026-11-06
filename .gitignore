@@ -1,0 +1,22 @@
+# Virtual Environments
+myenv/
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+
+# Model files
+*.pt
+*.pth
+*.bin
+*.onnx
+
+# Cache
+.pytest_cache/
